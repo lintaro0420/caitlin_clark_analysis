@@ -21,3 +21,9 @@ The visualizations paint a story of her dominance on the court, showcasing why s
   - `paletteer`
   - `dplyr`
 
+## Running the Analysis
+
+1. **Setup**: Ensure all required packages are installed and loaded in your R environment.
+2. **Data Loading**: Load the play-by-play data using the `wehoop` package.
+3. **Data Filtering**: Filter the data for Caitlin Clark's shooting and assist plays, and for Iowa Hawkeyes team shooting plays.
+4. **Visualization**: Create shooting charts, heat maps, and assist charts using ggplot2 and custom functions to plot basketball courts.
